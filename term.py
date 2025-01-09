@@ -5,6 +5,7 @@ from tkinter import scrolledtext
 import threading
 import serial
 
+
 class TerminalGUI:
     def __init__(self):
         self.root = tk.Tk()
